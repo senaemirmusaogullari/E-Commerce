@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_cart.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_remove_red_eye.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_remove_red_eye.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_yellowtail.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/yellowtail.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_forgot_password.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_bungee_shade.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/bungee_shade.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_shopping_cart.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_shopping_cart.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/navigation_login_graph.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/navigation/login_graph.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_signin.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_signin.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_search.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_search.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_arsenal.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/arsenal.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_home.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_item_product.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_signup.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_bungee_hairline.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/bungee_hairline.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_logo1.png.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_phone.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_phone.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_person.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_person.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/xml_fragment_logo_scene.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/xml/fragment_logo_scene.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_activity_main.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_favorites.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_favorite.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_favorite.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_splash.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_alternate_email_24.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_lock.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_lock.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_detail.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_erica_one.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/erica_one.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/drawable_baseline_home.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/drawable/baseline_home.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/navigation_main_graph.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/navigation/main_graph.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/menu_bottom_menu.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_allan.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/allan.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/layout_fragment_search.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/font_arizonia.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/font/arizonia.xml"
+    },
+    {
+        "merged": "com.senaemirmusaogullari.upschoolcapstoneproject.app-merged_res-62:/xml_backup_rules.xml.flat",
+        "source": "com.senaemirmusaogullari.upschoolcapstoneproject.app-main-64:/xml/backup_rules.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "login_graph",
+    "navigationXmlIds": [
+      "main_graph"
+    ],
+    "deepLinks": []
+  },
+  {
+    "name": "main_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

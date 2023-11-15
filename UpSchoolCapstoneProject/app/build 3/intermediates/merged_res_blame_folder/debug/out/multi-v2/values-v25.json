@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.senaemirmusaogullari.upschoolcapstoneproject.app-mergeDebugResources-61:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/senaemirmusaogullari/.gradle/caches/transforms-3/bb9055e6a866164c772006659f8ca13e/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
